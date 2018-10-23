@@ -38,7 +38,7 @@ def gman():
         if (x > 6):
                 addvalue = addvalue * -1
         if (x < 0):50,  100, 150, 200, 100,
-                addvalue = addvalue * -1
+        addvalue = addvalue * -1
     tw.exitonclick()
 
 gman()
